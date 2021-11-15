@@ -1,5 +1,0 @@
-EXTM3U
-#EXTINF: -1 tvg-logo = "" group-title = "Argentina", Telemax
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo = "" group-title = "Argentina", TV PUBLICA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637027164/ei/_LiSYbs0lIOhsg_pnJioDQ/ip/181.170.22.103/id/9KPmZrKR6PQ.1/source/yt_live_broadcast/requiressl/yes/tx/24105955/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBuebVONw6KUUCWTN4YADY8ifn8pUPWrCjdCPmIG0tVMCIDE53luoDxPlHKhuL08c-onVdh5IhxlGOpLjIP2MVT_q/file/index.m3u8
